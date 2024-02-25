@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Full Stack Developing
 - 💞️ I’m looking to collaborate on deep learning project
 - 📫 How to reach me jaybhuva57@gmail.com
-- 😄 Pronouns: Jay Bhuva
+- 😄 Pronouns: he/him/his
 
 
 <!---
